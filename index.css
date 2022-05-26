@@ -1,0 +1,26 @@
+.wrapper{
+    background-color: #F9FBFC;
+}
+.wrapper_img{
+    width: 600px;
+}
+.wrapper2{
+    background-color: black;
+}
+.title2{
+ font-size: 35px;
+}
+
+.wrapper2 hr{
+    width: 50px;
+    margin-top: 20px;
+     
+}
+.title2_about p{
+    text-align: center;
+}
+
+.Skills{
+    background-color: #F9FBFC;
+    /* background: rgb(75,120,179) to rgb(97,107,241);  */
+}
